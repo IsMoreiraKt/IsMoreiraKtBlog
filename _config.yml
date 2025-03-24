@@ -1,7 +1,6 @@
 # Site settings
 title: IsMoreiraKt
 description: "A blog about programming and technology."
-baseurl: "/"
 url: "https://ismoreiraktblog.vercel.app/"
 
 # Author

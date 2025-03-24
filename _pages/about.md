@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "IsMoreiraKt"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Olá a todos, Ismael Moreira.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Sou desenvolvedor de software, com experiência em Rust e C. Normalmente, passo o meu tempo a programar, mas decidi criar este blog para partilhar alguns projetos em que estou a trabalhar e também para discutir tópicos que me interessam.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Este blog será o meu espaço para falar sobre o que gosto, especialmente sobre desenvolvimento de baixo nível e a criação de bibliotecas em Rust.
 
-Thanks for reading!
+Além disso, vou lançar uma série de posts onde resolvo desafios técnicos reais que encontro em vagas de emprego no GitHub e no GitLab. O objetivo é mostrar o meu raciocínio, os passos que sigo para escrever o código e configurar o ambiente. Esses desafios envolvem várias linguagens, como PHP, Ruby, Java, Scala, e o objetivo é trabalhar nas linguagens exigidas, aproveitando para mostrar como procuro informação e aprendo coisas novas.
+
+Bem-vindo ao meu blog! Espero sinceramente que as informações aqui partilhadas sejam úteis para ti. Para quem tiver interesse, este blog foi criado com [Jekyll](https://jekyllrb.com/) e o tema [Tale](https://github.com/chesterhow/tale), criado por [Chesterhow](https://github.com/chesterhow). Acho que é isso, até ao próximo post.
